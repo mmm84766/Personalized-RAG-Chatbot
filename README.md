@@ -48,7 +48,7 @@ A powerful chatbot that combines Retrieval-Augmented Generation (RAG) with perso
 4. **Set up OpenRouter API**
    - Sign up for an account at [OpenRouter](https://openrouter.ai/)
    - Get your API key from the dashboard
-   - Create a `.env` file in the project root with the following content:
+   - Modify a `.env` file in the project root with the following content:
      ```
      OPENROUTER_API_KEY=your_api_key_here
      OPENROUTER_API_BASE=https://openrouter.ai/api/v1
@@ -113,9 +113,6 @@ A powerful chatbot that combines Retrieval-Augmented Generation (RAG) with perso
 - Default model is set to Mistral-7B-Instruct, but can be changed in the `.env` file
 - Document processing is done locally for better privacy and cost efficiency
 
-## License
-
-MIT License
 
 ## Sample Documents
 
