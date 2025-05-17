@@ -1,5 +1,7 @@
 # Personalized RAG Chatbot
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mmm84766/Personalized-RAG-Chatbot)
+
 A powerful chatbot that combines Retrieval-Augmented Generation (RAG) with personalized responses based on user preferences. The chatbot uses OpenRouter for LLM access and local embeddings for document processing.
 
 ## Features
@@ -28,8 +30,8 @@ A powerful chatbot that combines Retrieval-Augmented Generation (RAG) with perso
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/mmm84766/Personalized-RAG-Chatbot.git
+   cd Personalized-RAG-Chatbot
    ```
 
 2. **Create a virtual environment**
