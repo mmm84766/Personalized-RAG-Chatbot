@@ -1,0 +1,8 @@
+streamlit==1.32.0
+langchain==0.1.12
+openai==1.14.0
+python-dotenv==1.0.1
+chromadb==0.4.24
+sentence-transformers==2.5.1
+pypdf==4.1.0
+langchain-openai==0.0.8 
